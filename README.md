@@ -6,3 +6,6 @@ Classification models are used to predict the Locked to Funded "period" after th
 into several different bins (Lock periods).
 Top features were found and interpretations were made.
 
+##Presentation Slides
+Although I cannot share the code and data for this project, 
+slides that I presented at the Capstone showcase event at Galvanize on Sep 7, 2017 is posted here.
